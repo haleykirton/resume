@@ -1,0 +1,21 @@
+body {
+  background-color: pink;
+}
+
+h1 {
+  color: white;
+  font-size: 36px;
+  font-family: Arial, Helvetica, Sans-serif;
+}
+
+.header {
+  background-color: black;
+  padding-left: 10px; 
+  border: 1px solid white;
+  
+}
+
+.footer {
+  background-color:white;
+}
+
