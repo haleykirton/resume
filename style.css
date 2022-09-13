@@ -19,3 +19,51 @@ h1 {
   background-color:white;
 }
 
+.info {
+  line-height: 0.3;
+  
+}
+
+.info2 {
+  line-height: 0.3;
+  
+}
+
+.freelance {
+  padding-top: 4px;
+}
+
+.edu {
+  padding-top: 4px;
+}
+
+.ai {
+  line-height: 0.3;
+  font-size: 15px;
+}
+
+.ai1 {
+  line-height: 0.3;
+}
+
+.ull {
+  line-height: 0.3;
+  padding-top: 4px
+}
+
+.ull1 {
+  line-height: 0.3;
+  font-size: 15px;
+}
+
+.exp {
+  padding-top: 4px;
+}
+
+.skills {
+  padding-top: 4px;
+}
+
+.skills1 {
+  font-size: 15px;
+}
