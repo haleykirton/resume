@@ -5,65 +5,110 @@ body {
 h1 {
   color: white;
   font-size: 36px;
-  font-family: Arial, Helvetica, Sans-serif;
+  font-family: Arial;
 }
 
 .header {
   background-color: black;
   padding-left: 10px; 
   border: 1px solid white;
-  
+}
+
+.cvda {
+  font-family: Arial;
+  font-size: 15px;
 }
 
 .footer {
+  font-family: Arial;
   background-color:white;
 }
 
 .info {
+  font-family: Arial;
   line-height: 0.3;
   
 }
 
 .info2 {
+  font-family: Arial;
   line-height: 0.3;
   
 }
 
 .freelance {
+  font-family: Arial;
   padding-top: 4px;
+  font-size: 20px;
+}
+
+.freelance1 {
+  font-family: Arial;
+  
 }
 
 .edu {
+  font-family: Arial;
   padding-top: 4px;
-}
-
-.ai {
-  line-height: 0.3;
-  font-size: 15px;
+  font-size: 18px;
 }
 
 .ai1 {
+  font-family: Arial;
+  font-size: 16px;
+}
+
+.ai2 {
+  font-family: Arial;
   line-height: 0.3;
+  font-size: 14px;
 }
 
 .ull {
-  line-height: 0.3;
-  padding-top: 4px
+  font-family: Arial;
+  padding-top: 4px;
+  font-size: 16px;
 }
 
 .ull1 {
+  font-family: Arial;
   line-height: 0.3;
-  font-size: 15px;
+  font-size: 14px;
 }
 
 .exp {
+  font-family: Arial;
+  font-size: 19px;
   padding-top: 4px;
+}
+
+.exp1 {
+  font-family: Arial;
+}
+
+.exp2 {
+  font-family: Arial;
+  font-size: 
+}
+
+.date {
+  font-family: Arial;
+  font-size: 14px
 }
 
 .skills {
+  font-family: Arial;
+  font-size: 19px;
   padding-top: 4px;
+  
 }
 
 .skills1 {
-  font-size: 15px;
+  font-family: Arial;
+  font-size: 16px;
+}
+
+.links {
+    font-family: Arial;
+  font-size: 19px;
 }
