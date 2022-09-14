@@ -1,114 +1,181 @@
 body {
-  background-color: pink;
+  background-color: darkseagreen;
+}
+
+body {
+  background-image: url(https://wallpapercave.com/wp/wp4596352.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 
 h1 {
+  opacity: 1;
   color: white;
   font-size: 36px;
   font-family: Arial;
 }
 
 .header {
-  background-color: black;
-  padding-left: 10px; 
-  border: 1px solid white;
+  background-color: rgba(0,0,0,.7);
+  color: #fff; 
+}
+
+.prof {
+  background-color: rgba(0,0,0,.7);
+  color: #fff;
+  color: white;
+  font-family: Arial;
+  font-size: 18px;
 }
 
 .cvda {
   font-family: Arial;
   font-size: 15px;
+  color: white;
+  background-color: rgba(0,0,0,.5);
+  color: #fff;
+  padding: 4px;
+
 }
 
 .footer {
   font-family: Arial;
-  background-color:white;
+  color: white;
 }
 
 .info {
+  color: white;
   font-family: Arial;
   line-height: 0.3;
   
 }
 
 .info2 {
+  color: white;
   font-family: Arial;
   line-height: 0.3;
   
 }
 
 .freelance {
+  color: white;
   font-family: Arial;
-  padding-top: 4px;
-  font-size: 20px;
+  font-size: 18px;
+  background-color: rgba(0,0,0,.7);
+  color: #fff;
+  
 }
 
 .freelance1 {
+  color: white;
   font-family: Arial;
+  background-color: rgba(0,0,0,.5);
+  color: #fff;
+  padding: 4px;
   
 }
 
 .edu {
+  color: white;
   font-family: Arial;
-  padding-top: 4px;
   font-size: 18px;
+  background-color: rgba(0,0,0,.7);
+  color: #fff;
 }
 
 .ai1 {
+  color: white;
   font-family: Arial;
   font-size: 16px;
+  
 }
 
 .ai2 {
+  color: white;
   font-family: Arial;
   line-height: 0.3;
   font-size: 14px;
 }
 
 .ull {
+  color: white;
   font-family: Arial;
   padding-top: 4px;
   font-size: 16px;
 }
 
 .ull1 {
+  color: white;
   font-family: Arial;
   line-height: 0.3;
   font-size: 14px;
+  padding-bottom: 10px;
 }
 
 .exp {
+  background-color: rgba(0,0,0,.7);
+  color: #fff;
+  color: white;
   font-family: Arial;
-  font-size: 19px;
-  padding-top: 4px;
+  font-size: 18px;
 }
 
 .exp1 {
+  color: white;
   font-family: Arial;
 }
 
 .exp2 {
+  color: white;
   font-family: Arial;
   font-size: 
 }
 
 .date {
+  color: white;
   font-family: Arial;
   font-size: 14px
+  ;
 }
 
 .skills {
+  background-color: rgba(0,0,0,.7);
+  color: #fff;
+  color: white;
   font-family: Arial;
-  font-size: 19px;
-  padding-top: 4px;
+  font-size: 18px;
   
 }
 
 .skills1 {
+  color: white;
   font-family: Arial;
   font-size: 16px;
+  background-color: rgba(0,0,0,.5);
+  color: #fff;
+  padding: 4px;
+  
 }
 
 .links {
-    font-family: Arial;
-  font-size: 19px;
+  background-color: rgba(0,0,0,.7);
+  color: #fff;
+  color: white;
+  font-family: Arial;
+  font-size: 18px;
 }
+
+.eduborder {
+  background-color: rgba(0,0,0,.5);
+  color: #fff;
+  padding: 4px;
+  
+}
+
+.expborder {
+  background-color: rgba(0,0,0,.5);
+  color: #fff;
+  padding: 4px;
+}
+  
