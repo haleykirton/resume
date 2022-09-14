@@ -3,10 +3,14 @@ body {
 }
 
 body {
-  background-image: url(https://wallpapercave.com/wp/wp4596352.jpg);
+  background-image: url(https://i.pinimg.com/736x/dd/d3/61/ddd3619e57b12af0c698d5c0d3edf4c9--julia.jpg);
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: cover;
+}
+
+.pic {
+  padding-top: 24px;
 }
 
 h1 {
@@ -48,6 +52,9 @@ h1 {
   color: white;
   font-family: Arial;
   line-height: 0.3;
+  background-color: rgba(0,0,0,.5);
+  color: #fff;
+  padding: 4px;
   
 }
 
@@ -121,21 +128,37 @@ h1 {
   font-size: 18px;
 }
 
+.cpw {
+  padding-top: 2px;
+  font-size: 18px;
+  font-family: arial;
+  
+}
+
+.cag {
+  color: white;
+  font-family: Arial;
+  font-size: 18px;
+  
+}
 .exp1 {
   color: white;
   font-family: Arial;
+  line-height: 0.3;
+  
 }
-
 .exp2 {
   color: white;
   font-family: Arial;
-  font-size: 
+  line-height: 0.3;
+  padding-bottom: 10px;
+  
 }
 
 .date {
   color: white;
   font-family: Arial;
-  font-size: 14px
+  font-size: 13px
   ;
 }
 
