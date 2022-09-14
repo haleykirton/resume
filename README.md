@@ -1,2 +1,2 @@
-# resume
-Welcome to my resume!
+# Haley Kirton
+Welcome to my resume! Have a great day.
