@@ -8,8 +8,8 @@ body {
 
 
 .whole{
-  margin-left: 200px;
-  margin-right: 200px;
+  margin-left: 400px;
+  margin-right: 400px;
 }
 
 .pic {
@@ -234,7 +234,8 @@ h1 {
 .links1 {
   background-color: rgba(0,0,0,.5);
   color: #fff;
-  padding: 4px;
+  padding: 15px;
+  padding-top:
  
 }
   
